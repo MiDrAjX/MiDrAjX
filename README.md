@@ -42,9 +42,6 @@
 	<a href="https://git-scm.com/">
 		<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=F05032&logo=git&logoColor=white"/>
 	</a>
-	<a href="https://www.mysql.com/">
-		<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=4479A1&logo=mysql&logoColor=white"/>
-	</a>
 	<a href="https://vercel.com/">
 		<img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&labelColor=000000&logo=vercel&logoColor=white"/>
 	</a>
