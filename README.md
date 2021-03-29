@@ -1,10 +1,52 @@
-- 👋 Olá, meu nome é Jeison
-- 🌱 Estudante Fullstack Node React ReactNative
-- 🤝 Perfil para contato [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jeison-marques/)
 
-- 🚀 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<p align="center">
+	Me chamo Jeison Marques, sou um estudante em Engenharia da Computação. <br> 
+	Atualmente meu foco é o desenvolvimento web.
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=midrajx&theme=tokyonight)](https://github.com/midrajx?tab=repositories)
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midrajx&layout=compact&theme=tokyonight)](https://github.com/midrajx?tab=repositories)
+[![Linkedin Badge](https://img.shields.io/badge/-JeisonMarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeison-marques/)](https://www.linkedin.com/in/jeison-marques/)
+[![Gmail Badge](https://img.shields.io/badge/-jeisonmarques78@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeisonmarques78@gmail.com)](mailto:jeisonmarques78@gmail.com)
+<br>
+
+<br>
+
+![Jeison's GitHub stats](https://github-readme-stats.vercel.app/api?username=midrajx&show_icons=true&theme=buefy)
+
+<br>
+
+<br>
+<div align="center" width="50%">
+	<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+		<img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=E34F26&logo=html5&logoColor=white"/>
+	</a>
+	<a href="https://www.w3schools.com/css/">
+		<img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=1572B6&logo=css3&logoColor=white"/>
+	</a>
+	<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+		<img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&labelColor=F7DF1E&logo=javascript&logoColor=black"/>
+	</a>
+	<a href="https://www.typescriptlang.org/">
+		<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=3178C6&logo=typescript&logoColor=white"/>
+	</a>
+	<a href="https://pt-br.reactjs.org/">
+		<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=61DAFB&logo=react&logoColor=black"/>
+	</a>
+	<a href="https://nextjs.org/">
+		<img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+	</a>	
+	<a href="https://nodejs.org/">
+		<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+	</a>
+	<a href="https://git-scm.com/">
+		<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=F05032&logo=git&logoColor=white"/>
+	</a>
+	<a href="https://www.mysql.com/">
+		<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=4479A1&logo=mysql&logoColor=white"/>
+	</a>
+	<a href="https://vercel.com/">
+		<img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&labelColor=000000&logo=vercel&logoColor=white"/>
+	</a>
+
+</div>
