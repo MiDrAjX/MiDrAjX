@@ -12,7 +12,7 @@
 
 <br>
 
-![Jeison's GitHub stats](https://github-readme-stats.vercel.app/api?username=midrajx&theme=dark&show_icons=true&theme=buefy)
+![Jeison's GitHub stats](https://github-readme-stats.vercel.app/api?username=midrajx&theme=tokyonight&show_icons=true&theme=buefy)
 
 <br>
 
