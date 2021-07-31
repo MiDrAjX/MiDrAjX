@@ -1,7 +1,7 @@
 
 <p align="center">
-	Me chamo Jeison Marques, sou um estudante em Engenharia da Computação. <br> 
-	Atualmente meu foco é o desenvolvimento web.
+	Me chamo Jeison Marques, Desenvolverdor Web com foco em Font-End. <br> 
+	
 </p>
 
 <div align="center">
