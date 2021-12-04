@@ -30,6 +30,9 @@
 	<a href="https://www.typescriptlang.org/">
 		<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=3178C6&logo=typescript&logoColor=white"/>
 	</a>
+	<a href="https://reactnative.dev/">
+		<img src="https://img.shields.io/badge/-React.native-61DAFB?style=for-the-badge&labelColor=61DAFB&logo=react&logoColor=black"/>
+	</a>
 	<a href="https://pt-br.reactjs.org/">
 		<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=61DAFB&logo=react&logoColor=black"/>
 	</a>
