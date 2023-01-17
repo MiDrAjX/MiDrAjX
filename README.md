@@ -1,6 +1,6 @@
 
 <p align="center">
-	Me chamo Jeison Marques, Desenvolverdor Web com foco em Front-End. <br> 
+	Me chamo Jeison Marques, Desenvolverdor Web com foco em Mobile. <br> 
 	
 </p>
 
